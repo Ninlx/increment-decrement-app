@@ -1,0 +1,22 @@
+{
+  "name": "increment-decrement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninlx/increment-decrement-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ninlx/increment-decrement-app/issues"
+  },
+  "homepage": "https://github.com/Ninlx/increment-decrement-app#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
