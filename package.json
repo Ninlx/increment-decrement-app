@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Ninlx/increment-decrement-app#readme",
   "dependencies": {
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.0",
+    "overscroll": "^0.0.39",
+    "smooth-scrollbar": "^8.7.4"
   }
 }
